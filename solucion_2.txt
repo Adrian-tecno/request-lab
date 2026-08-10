@@ -1,0 +1,4 @@
+Solucion del ejercicio 2
+Para poder calcular el IVA de $75,585 con un valor de 16%
+Debemos multiplicar por 0.16, y asi obtendremos el resultado.
+EL IVA es (75585*0.16) = 12,093.60
